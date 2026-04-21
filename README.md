@@ -13,15 +13,12 @@ An AI-powered Non-Invasive Blood Glucose Monitoring System designed to estimate 
 ## Technologies Used
 - Python
 - Arduino / ESP32
-- React.js
-- Node.js
-- MongoDB
-- TensorFlow / Scikit-learn
+
 
 ## Hardware Components
 - IR Sensor
 - Temperature Sensor
-- Pulse Sensor
+- MAX30100
 - ESP32 / NodeMCU
 
 ## Project Modules

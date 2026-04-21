@@ -1,6 +1,5 @@
-# GlucoVitals 🩸
-
-An AI-powered Non-Invasive Blood Glucose Monitoring System designed to estimate glucose levels without finger-prick methods using sensors and machine learning.
+# GlucoVitals 
+Non-Invasive Blood Glucose Monitoring System designed to estimate glucose levels without finger-prick methods using sensors and machine learning.
 
 ## Features
 - Non-invasive glucose estimation
